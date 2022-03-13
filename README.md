@@ -1,6 +1,5 @@
 # Learning resources
-- 
-- [The Swift Programming language book](https://docs.swift.org/swift-book/index.html)
+ - [The Swift Programming language book](https://docs.swift.org/swift-book/index.html)
 - Github, evolution process, wwdc, apple/swift web page and developer app
 
 
