@@ -23,7 +23,7 @@
 * [CocoaCasts](https://cocoacasts.com) 
 * [Design Code](https://designcode.io)
 * [Clean Coders](https://cleancoders.com)
-* [Essential Developer](https://www.essentialdeveloper.com
+* [Essential Developer](https://www.essentialdeveloper.com)
 * [Point Free](https://www.pointfree.co)
 
 
