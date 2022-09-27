@@ -29,4 +29,4 @@
 
 ## Practice
 * [Hacker Rank](https://www.hackerrank.com)
-* [Project Euler](https://projecteuler.net) (only for the brave
+* [Project Euler](https://projecteuler.net) (only for the brave)
